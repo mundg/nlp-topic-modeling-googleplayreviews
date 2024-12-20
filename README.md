@@ -5,6 +5,8 @@
 🧠 **Discover dominant topics and insights**  
 🎨 **Visualize trends with word clouds**  
 
+🌐 **Access the website via this link: https://googleplay-topics-nlp.onrender.com/**
+
 Get ready to dive into the world of app reviews and uncover the hidden patterns shaping user feedback. Explore genres, developers, ad impact, and more in one comprehensive platform.
 ![](images/welcome_screen.png)
 
@@ -27,7 +29,7 @@ Contains Jupyter notebooks and results from model development:
 - **LDA modeling**: Notebooks related to Latent Dirichlet Allocation modeling.
 - **Hyperparameter Tuning Results**: Results and analysis from hyperparameter optimization.
 
-### `Scripts/`
+### `scripts/`
 Holds Python scripts, including:  
 - **Google Play Scraper API**: A script for generating Google Play reviews using an API.
 
